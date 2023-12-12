@@ -1,0 +1,3 @@
+Explain Exception handling? What is an Error in Python? 
+-->
+Exception handling in python allows you to separate error-handling code from normal code. An exception is a Python object which represents an error. As with code comments, exceptions help you to remind yourself of what the program expects. It clarifies the code and enhances readability.

@@ -1,0 +1,2 @@
+What is Instantiation in terms of OOP terminology? 
+-->An instance is the use of an object within a specific class. In many coding languages, it's the same thing as an object, but the term "instance" refers to the relationship between the object and its class. The process of creating an instance is called instantiation
